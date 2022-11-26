@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BSCsharp", "BSCsharp.csproj", "{6EE0E18F-D2F6-4A61-A17D-CE86AF196CF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResultAgreggator", "..\ResultAgreggator\ResultAgreggator.csproj", "{A569CFBE-0BCB-4B25-88CE-025A53F5B229}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EE0E18F-D2F6-4A61-A17D-CE86AF196CF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EE0E18F-D2F6-4A61-A17D-CE86AF196CF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EE0E18F-D2F6-4A61-A17D-CE86AF196CF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EE0E18F-D2F6-4A61-A17D-CE86AF196CF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A569CFBE-0BCB-4B25-88CE-025A53F5B229}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A569CFBE-0BCB-4B25-88CE-025A53F5B229}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A569CFBE-0BCB-4B25-88CE-025A53F5B229}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A569CFBE-0BCB-4B25-88CE-025A53F5B229}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C6BD0C5-B8F7-4635-A40F-0E8137070EFC}
+	EndGlobalSection
+EndGlobal

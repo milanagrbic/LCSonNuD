@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "BSNew": {
+      "commandName": "Project",
+      "commandLineArgs": "600 100 GMPSUM50 smpl0 \"../../../../Instances/text_case_study_k/neg_12_3_0.txt\" out.csv -1",
+      "remoteDebugEnabled": false
+    }
+  }
+}
